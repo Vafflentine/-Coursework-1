@@ -1,2 +1,2 @@
-# -Coursework-1
+# Coursework-1
 Engineering calculator on C++
